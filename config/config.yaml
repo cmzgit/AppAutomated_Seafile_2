@@ -1,0 +1,11 @@
+platformName: Android
+platformVersion: 7.1.2
+deviceName: 127.0.0.1:21503
+appPackage: com.seafile.seadroid2
+appActivity: com.seafile.seadroid2.ui.activity.BrowserActivity
+noReset: False
+app: D:\Desktop\软件测试\软件测试项目\App项目实战\1.SEAFILE系统环境部署\Seafile手册与app包\seafile-2.2.8.apk
+unicodeKeyboard: True
+resetKeyboard: True
+ip: localhost
+port: 4723
